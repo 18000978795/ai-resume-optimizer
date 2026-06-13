@@ -14,6 +14,14 @@
 
 </div>
 
+## 📸 项目截图
+
+| 首页 | 填写简历 | 优化结果 |
+|:---:|:---:|:---:|
+| ![首页](screenshots/screenshot-home.png) | ![填写简历](screenshots/screenshot-form.png) | ![优化结果](screenshots/screenshot-result.png) |
+
+> 💡 截图保存到 `screenshots/` 文件夹后即可显示
+
 ---
 
 ## 📖 项目背景
