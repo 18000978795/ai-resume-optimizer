@@ -100,7 +100,7 @@ ai-resume-optimizer/
 
 ```bash
 # 1. 克隆项目
-git clone https://github.com/your-username/ai-resume-optimizer.git
+git clone https://github.com/18000978795/ai-resume-optimizer.git
 cd ai-resume-optimizer
 
 # 2. 安装依赖
