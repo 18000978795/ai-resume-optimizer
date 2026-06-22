@@ -215,4 +215,4 @@ cp backend/.env.example backend/.env
 
 ## 📄 License
 
-MIT — 随意使用，欢迎 Star ⭐
+随意使用，欢迎 Star ⭐
